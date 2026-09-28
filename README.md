@@ -1,4 +1,4 @@
 # neeraj-demo
 this is my first repository
 <br>
-auther neeraj chaudhary
+auther neeraj ahirwar
